@@ -17,7 +17,9 @@ app_secret = os.environ["APP_SECRET"]
 user_id = os.environ["USER_ID"]
 template_id = os.environ["TEMPLATE_ID"]
 
+print(111)
 print(start_date)
+print(222)
 print(birthday)
 
 
